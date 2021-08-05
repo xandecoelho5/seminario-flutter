@@ -2,41 +2,40 @@
 
 ### Vantagens
 1. Escreva uma vez e implante(deploy) em qualquer lugar
-Com a mesma base de código é possível rodas aplicações flutter em android, IOS ou WEB.
+> Com a mesma base de código é possível rodas aplicações flutter em android, IOS ou WEB.
 
 2. Hot Reload
-Uma grande ferramenta pra desenvolvimento, que pertmite que os efeitos das mudanças feitas no código possam
+> Uma grande ferramenta pra desenvolvimento, que pertmite que os efeitos das mudanças feitas no código possam
 ser vistas em tempo real. (Não é necessário reiniciar toda a aplicação para que as mudanças sejam feitas).
 
 3. Desenvolvimento mais rápido
-Optando por Flutter, você tende a desenvolver a aplicação mais rápido do que quando opta por fazer aplicações nativas,
-visto que o código escrito roda em todas as plataformas.
+> Optando por Flutter, você tende a desenvolver a aplicação mais rápido do que quando opta por fazer aplicações nativas,
+visto que o código escrito roda em todas as plataformas. 
 Além de que, ao escrever apenas uma base de código, o tempo gasto com code reviews, testes e debugs pode tomar bem menos
 tempo.
 
 4. Manutenção do aplicativo é mais fácil
-Como seu aplicativo Flutter usa a mesma base de código em todas as plataformas, lançar atualizações é outro recurso
+> Como seu aplicativo Flutter usa a mesma base de código em todas as plataformas, lançar atualizações é outro recurso
 que se torna infinitamente mais contínuo e simples. Você pode lançar atualizações para seus aplicativos iOS e Android simultaneamente,
 reduzindo significativamente as mudanças na infraestrutura de back-end, bem como problemas de implementação e sincronização que
 frequentemente surgem quando diferentes conjuntos de desenvolvedores trabalham em diferentes plataformas.
 
 ### Desvantagens
 1. Obtendo a aparência e comportamento específicos da plataforma
-Embora o Flutter permita que você execute um aplicativo de alto desempenho tanto no iOS quanto no Android com apenas uma
+> Embora o Flutter permita que você execute um aplicativo de alto desempenho tanto no iOS quanto no Android com apenas uma
 base de código, obter a aparência e a sensação específicas da plataforma perfeita pode ser um pouco insuficiente para o gosto dos puristas.
-
-> Se você precisa que seu aplicativo esteja estritamente em conformidade com os princípios do Material Design em dispositivos
+Se você precisa que seu aplicativo esteja estritamente em conformidade com os princípios do Material Design em dispositivos
 Android e Apple Design System no iOS, você pode querer preparar dois aplicativos separados.
 
 2. Ainda é um framework imaturo
-Comparado com as outras linguagens/frameworks para desenvolvimento que seja híbrido ou nativo (citando aqui React Native (Javascript), Kotlin, Swift, por exemplo), é possível ver que ainda falta muito para se tornar algo bem consolidado (Flutter usa Dart como sua linguagem para desenvolvimento).
+> Comparado com as outras linguagens/frameworks para desenvolvimento que seja híbrido ou nativo (citando aqui React Native (Javascript), Kotlin, Swift, por exemplo), é possível ver que ainda falta muito para se tornar algo bem consolidado (Flutter usa Dart como sua linguagem para desenvolvimento).
 As linguagens que já estão no mercado a algum tempo, já tem uma grande base de tutoriais, problemas resolvidos, entre outros conteúdos nos quais a comunidade que utiliza foram desenvolvendo.
 
 3. Os aplicativos Flutter são bastante grandes e "pesados" para começar
-Ocupam um bom espaço no disco.
+> Ocupam um bom espaço no disco.
 
 4. O framewok, assim como a linguagem Dart, estão mudando rapidamente às vezes, o que pode dificultar a manutenção do código a longo prazo.
-Um exemplo disso é: Um curso que eu peguei para fazer sobre flutter (curso era de 2020) já possuía diversas alterações em relação à versão atual. A versão na época do curso era 1.7 e a versão atual é a 2.2, nesse período algumas atualizações importantes ocorreram, de modo que foi necessário de minha parte fazer pesquisas Google para procurar soluções alternativas.
+> Um exemplo disso é: Um curso que eu peguei para fazer sobre flutter (curso era de 2020) já possuía diversas alterações em relação à versão atual. A versão na época do curso era 1.7 e a versão atual é a 2.2, nesse período algumas atualizações importantes ocorreram, de modo que foi necessário de minha parte fazer pesquisas Google para procurar soluções alternativas.
 
 ### Principais Características
 1. Multiplataforma - Podemos desenvolver aplicações com Flutter em qualquer sistema operacional (Windows, Linux e MacOS);
